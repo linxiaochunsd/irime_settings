@@ -1,0 +1,15 @@
+patch:
+  app_setting:
+    candidate_tool_bar_is_show_pasteboard: true
+    candidate_tool_bar_is_show_schema_switcher: true
+    play_key_voice_volume: 0.2701835
+    current_chinese_type: 2
+    monitor_paste: true
+    theme_name: microsoft
+    play_key_voice_name: default.caf
+    is_show_candidate_comment: true
+    play_key_voice: false
+    candidate_tool_bar_is_show_emoji: true
+    impact_feedback: false
+    is_show_pop: false
+    candidate_preedit_type: 3
