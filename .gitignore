@@ -1,0 +1,10 @@
+*~
+.*~
+/luna_pinyin.userdb/*
+/easy_en.userdb/*
+/build/*
+/user.yaml
+/installation.yaml
+opencc/.DS_Store
+.DS_Store
+output
